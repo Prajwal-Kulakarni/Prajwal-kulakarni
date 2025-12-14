@@ -36,6 +36,7 @@
 ### 🚀 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-kulakarni&layout=compact&theme=tokyonight" />
+   English,Kannada
 </p>
 
 ---
@@ -44,6 +45,7 @@
 <p>
   <a href="https://www.linkedin.com/in/prajwal-k-g-501330312" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+     www.linkedin.com/in/prajwal-k-g-501330312
   </a>
 </p>
 
