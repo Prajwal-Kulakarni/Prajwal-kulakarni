@@ -35,8 +35,14 @@
 
 ### 🚀 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-kulakarni&layout=compact&theme=tokyonight" />
-   English,Kannada
+  ## 💻 Programming Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-kulakarni&layout=compact&theme=tokyonight" />
+
+- Python  
+- C  
+
+   
 </p>
 
 ---
