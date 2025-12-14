@@ -33,20 +33,6 @@
 
 ---
 
-### 🚀 Top Languages
-<p align="center">
-  ## 💻 Programming Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-kulakarni&layout=compact&theme=tokyonight" />
-
-- Python  
-- C  
-
-   
-</p>
-
----
-
 ### 🤝 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/prajwal-k-g-501330312" target="_blank">
