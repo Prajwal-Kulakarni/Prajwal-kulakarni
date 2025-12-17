@@ -3,18 +3,18 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently learning **C & Python**
-- 🌱 Exploring **Embedded Systems, VLSI, and Software Development**
-- 🤖 Passionate about **Microcontrollers, Digital Electronics, Chip Design & Automation**
-- 👯 Actively looking for **internships and entry-level opportunities**
+### About Me
+- I’m currently learning **C & Python**
+- Exploring **Embedded Systems, VLSI, and Software Development**
+- Passionate about **Microcontrollers, Digital Electronics, Chip Design & Automation**
+- Actively looking for **internships and entry-level opportunities**
 - 💬 Ask me about **Python, C, Embedded Basics, Digital Logic & VLSI Fundamentals**
-- 📫 Reach me at: **prajwalkulakarni2005@gmail.com**
+- Reach me at: **prajwalkulakarni2005@gmail.com**
    I enjoy solving technical problems and building things from scratch!
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
